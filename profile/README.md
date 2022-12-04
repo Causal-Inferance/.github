@@ -2,8 +2,6 @@
 
 All the relavant information is provided in the report and presentation slides, and all the required code and dataset is provided in this organization.
 
-Drive Link - https://drive.google.com/drive/folders/1-hMDBNVKdMN01d9oTsLqfj-t3koOYfBV?usp=sharing
-
 Members of Group 3:
 
 - [Harsh Gujarathi](https://github.com/alphaNewrex) (2020A7PS1712G) 
